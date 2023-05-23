@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Quicksand:wght@300&family=Roboto:wght@300&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: lightgreen;
+}
+.container{
+    border: 2px solid gold;
+    width: 300px;
+    background-color: black;
+    padding: 20px 0px;
+    box-shadow: 20px 20px 30px black;
+}
+.button{
+    padding: 20px;
+    margin: 8px 3px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.b1{
+    background-color: rgba(212, 212, 17, 0.953);
+}
+.b2{
+    background-color: rgba(128, 128, 128, 0.601);
+}
+.b3{
+    background-color: rgb(29, 29, 29);
+    color:white;
+}
+.row input{
+    font-size: 23px;
+    margin-top: 5px;
+    padding: 13px;
+    width: 210px;
+    border-radius: 10px;
+}
+.row1 button{
+    padding: 20px 16px 17px 17px; 
+    margin: 8px 3px;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
